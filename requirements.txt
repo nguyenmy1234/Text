@@ -1,0 +1,10 @@
+# Thư viện bắt buộc (không ghim phiên bản để khớp với Google Colab)
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Chỉ cần nếu muốn chạy mục 4.6 (so sánh RoBERTa zero-shot). Colab đã cài sẵn; thiếu thì mục 4.6 tự bỏ qua.
+# torch
+# transformers
